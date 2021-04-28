@@ -1,0 +1,306 @@
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.exe
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.deps.json
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.json
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.dev.json
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfo.cs
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.Manifest.cache
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.xml
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskAPI.styles.css
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.RazorTargetAssemblyInfo.cache
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.genruntimeconfig.cache
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CopyComplete
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\inetpub\wwwroot\ApiEfectura\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.csprojAssemblyReference.cache
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfoInputs.cache
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfo.cs
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.exe
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.deps.json
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.json
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.dev.json
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.Manifest.cache
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.xml
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskAPI.styles.css
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CopyComplete
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\obj\Debug\netcoreapp3.1\TaskAPI.genruntimeconfig.cache
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\ChoETL.Core.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\ChoETL.JSON.Core.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\PANTONE-BACKEND\Desktop\TaskAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.exe
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.deps.json
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.json
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.dev.json
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\ChoETL.Core.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\ChoETL.JSON.Core.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Extensions.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Services.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Design.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Design.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Linq.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.ApplicationServices.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activation.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Client.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Entity.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.EnterpriseServices.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Xaml.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.Selectors.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Messaging.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.DurableInstancing.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.OracleClient.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Drawing.Design.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.RegularExpressions.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activities.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Remoting.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Configuration.Install.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.DurableInstancing.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Extensions.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Services.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Design.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Design.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Linq.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.ApplicationServices.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activation.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Client.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Entity.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Windows.Forms.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.EnterpriseServices.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.DirectoryServices.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Xaml.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.Selectors.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Messaging.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.DurableInstancing.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.OracleClient.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\Accessibility.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Drawing.Design.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.RegularExpressions.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activities.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Deployment.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Remoting.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Configuration.Install.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.DurableInstancing.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.EnterpriseServices.Wrapper.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfo.cs
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.Manifest.cache
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.xml
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskAPI.styles.css
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.RazorTargetAssemblyInfo.cache
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CopyComplete
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.dll
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\inetpub\wwwroot\NetCoreApi\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.exe
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.deps.json
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.json
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\ChoETL.Core.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\ChoETL.JSON.Core.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Extensions.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Services.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Design.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Design.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Linq.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.ApplicationServices.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activation.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Client.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Entity.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.EnterpriseServices.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Xaml.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.Selectors.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Messaging.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.DurableInstancing.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.OracleClient.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Drawing.Design.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.RegularExpressions.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activities.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Remoting.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Configuration.Install.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.DurableInstancing.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Extensions.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.Services.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Design.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Design.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Linq.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.ApplicationServices.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activation.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Services.Client.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.Entity.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Windows.Forms.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.EnterpriseServices.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.DirectoryServices.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Xaml.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.IdentityModel.Selectors.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Messaging.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.DurableInstancing.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.OracleClient.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\Accessibility.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Drawing.Design.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Web.RegularExpressions.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.ServiceModel.Activities.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Deployment.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Runtime.Remoting.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Configuration.Install.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Activities.DurableInstancing.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.EnterpriseServices.Wrapper.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.xml
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskAPI.styles.css
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CopyComplete
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.dll
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\Users\Admin\Desktop\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.exe
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.deps.json
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.json
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\ChoETL.Core.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\ChoETL.JSON.Core.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\staticwebassets\TaskAPI.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskAPI.styles.css
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.dll
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.pdb
+C:\Users\Admin\Desktop\Mülakat\TaskAPI - 2\obj\Debug\netcoreapp3.1\TaskAPI.genruntimeconfig.cache
