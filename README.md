@@ -2,9 +2,11 @@
 
 Çözüm ile ilgili;
 
+•	API tasarımınız ile ilgili bilgi paylaşabilir misiniz ?
 - REST API, .Net Core ile geliştirilmiştir. Default olarak Xml formatında gelen verileri json tipinde ekrana çıkarmaktadır.
 
-- SOLID prensiplerine uygun olup yeni veri kümeleri eklenmesine olanak sağlanmaktadır. 
+•	Proje mimarisinda yaptığınız değişiklikler, design pattern’lar ile ilgili bilgi verebilir misiniz?
+- SOLID prensiplerine uygun olup yeni veri kümeleri eklenmesine olanak sağlanmaktadır. İnterface sayesinde veri filtrelenmesi sağlanmıştır.
 
-- Swagger arayüzü kullanılmıştır. Swagger’ın amacı RestApi ler için bir arayüz sağlamaktır. RestApi'lerin özelliklerini görmesine, incelemesine ve anlamasına olanak sağlar. 
-Dönüştürme işleminde newtonsoft.json paketi kullanılmıştır. 
+•	Kullandığınız 3. Parti kütüphaneleri söyleyip işlevleri hakkında bilgi paylaşabilir misiniz?
+- Swagger arayüzü kullanılmıştır. Newtonsoft.json, ChoETL.JSON paketi kullanılmıştır. 
