@@ -1,4 +1,10 @@
 # Task-Aliniyor
 
-API, .Net Core kullanılarak oluşturulmuştur.  Veri kümeleri projeye solution üzerinden direkt olarak eklendi ve dönüş tipi Json’dur. Veri kaynağı default olarak xml formatında gelmektedir. Veri kümeleri için modelleme yapılmıştır. Yeni veri kümleri eklenmek istendiğinde koda müdahale etmeden  kolay bir geliştirme olanağı sağlanmaktadır. Interface kullanılarak verilerin filtrelenmesi sağlanmıştır.
-Yardımcı kütüphane olarak Swagger arayüzü kullanılmıştır. Json formatı için NewtonSoft Json paketi kullanılmıştır. 
+Çözüm ile ilgili;
+
+- REST API, .Net Core ile geliştirilmiştir. Default olarak Xml formatında gelen verileri json tipinde ekrana çıkarmaktadır.
+
+- SOLID prensiplerine uygun olup yeni veri kümeleri eklenmesine olanak sağlanmaktadır. 
+
+- Swagger arayüzü kullanılmıştır. Swagger’ın amacı RestApi ler için bir arayüz sağlamaktır. RestApi'lerin özelliklerini görmesine, incelemesine ve anlamasına olanak sağlar. 
+Dönüştürme işleminde newtonsoft.json paketi kullanılmıştır. 
